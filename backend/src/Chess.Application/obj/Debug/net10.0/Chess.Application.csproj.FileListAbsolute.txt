@@ -1,0 +1,16 @@
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\bin\Debug\net10.0\Chess.Application.deps.json
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\bin\Debug\net10.0\Chess.Application.dll
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\bin\Debug\net10.0\Chess.Application.pdb
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\bin\Debug\net10.0\Chess.Domain.dll
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\bin\Debug\net10.0\Chess.Domain.pdb
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\obj\Debug\net10.0\Chess.Application.csproj.AssemblyReference.cache
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\obj\Debug\net10.0\Chess.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\obj\Debug\net10.0\Chess.Application.AssemblyInfoInputs.cache
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\obj\Debug\net10.0\Chess.Application.AssemblyInfo.cs
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\obj\Debug\net10.0\Chess.Application.csproj.CoreCompileInputs.cache
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\obj\Debug\net10.0\Chess.Application.sourcelink.json
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\obj\Debug\net10.0\Chess.Ap.8824AAB9.Up2Date
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\obj\Debug\net10.0\Chess.Application.dll
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\obj\Debug\net10.0\refint\Chess.Application.dll
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\obj\Debug\net10.0\Chess.Application.pdb
+C:\Dev\Projects\ChessPlatform\backend\src\Chess.Application\obj\Debug\net10.0\ref\Chess.Application.dll
